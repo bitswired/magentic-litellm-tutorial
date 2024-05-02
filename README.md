@@ -1,6 +1,7 @@
 # Magentic + LiteLLM Tutorial
 
-This tutorial is available on myt Youtube channel:
+This tutorial is available on my YouTube channel:
+
 [![IMAGE ALT TEXT HERE](thumb.png)](https://www.youtube.com/watch?v=VSfehUJUWQY)
 [YouTube Video](https://www.youtube.com/watch?v=VSfehUJUWQY).
 
